@@ -1,0 +1,9 @@
+C:\Users\Ryan Lee\Desktop\Epicodus\C#\MadLibs.Solution\MadLibs\bin\Debug\netcoreapp1.1\MadLibs.deps.json
+C:\Users\Ryan Lee\Desktop\Epicodus\C#\MadLibs.Solution\MadLibs\bin\Debug\netcoreapp1.1\MadLibs.runtimeconfig.json
+C:\Users\Ryan Lee\Desktop\Epicodus\C#\MadLibs.Solution\MadLibs\bin\Debug\netcoreapp1.1\MadLibs.runtimeconfig.dev.json
+C:\Users\Ryan Lee\Desktop\Epicodus\C#\MadLibs.Solution\MadLibs\bin\Debug\netcoreapp1.1\MadLibs.dll
+C:\Users\Ryan Lee\Desktop\Epicodus\C#\MadLibs.Solution\MadLibs\bin\Debug\netcoreapp1.1\MadLibs.pdb
+C:\Users\Ryan Lee\Desktop\Epicodus\C#\MadLibs.Solution\MadLibs\obj\Debug\netcoreapp1.1\MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Lee\Desktop\Epicodus\C#\MadLibs.Solution\MadLibs\obj\Debug\netcoreapp1.1\MadLibs.AssemblyInfo.cs
+C:\Users\Ryan Lee\Desktop\Epicodus\C#\MadLibs.Solution\MadLibs\obj\Debug\netcoreapp1.1\MadLibs.dll
+C:\Users\Ryan Lee\Desktop\Epicodus\C#\MadLibs.Solution\MadLibs\obj\Debug\netcoreapp1.1\MadLibs.pdb
